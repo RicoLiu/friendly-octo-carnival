@@ -1,6 +1,7 @@
 /**
  * @param {number} n
  * @return {boolean}
+ * 同样适用于Power of Two & Power of Four
  */
 var isPowerOfThree = function(n) {
   if (n <= 0) {
