@@ -4,9 +4,10 @@
  * @param {string} numbers 
  * @returns 
  */
-function iqTest(numbers){
+function iqTest(numbers) {
   var num = numbers.split(' ');
-  var even = 0, odd = 0;
+  var even = 0,
+    odd = 0;
   num.map(_ => {
     if (_ % 2 === 0) {
       even += 1;

@@ -1,4 +1,4 @@
-function dirReduc(arr){
+function dirReduc(arr) {
   var dirReducEnum = {
     NORTH: 'SOUTH',
     SOUTH: 'NORTH',
@@ -7,20 +7,21 @@ function dirReduc(arr){
   }
   while (true) {
     var dirReducResult = [];
-    var i = 0, n = arr.length;
-    while (i < n - 1) {
-      if (dirReducEnum[arr[i]] == arr[i + 1]) {
+    var i = 0,
+      len = arr.length;
+    while (i < len - 1) {
+      if (dirReducEnum[arr[i]] === arr[i + 1]) {
         i += 2;
       } else {
         dirReducResult.push(arr[i]);
         i += 1;
       }
     }
-    if (i < n) {
+    if (i < len) {
       dirReducResult.push(arr[i]);
       i += 1;
     }
-    if (arr.length == dirReducResult.length) {
+    if (arr.length === dirReducResult.length) {
       arr = dirReducResult;
       break;
     }
@@ -37,7 +38,7 @@ function dirReduc(arr){
  * @param {Array} arr 
  * @returns 
  */
-function dirReduc(arr){
+function dirReduc(arr) {
   var str = arr.join('');
   var pattern = /NORTHSOUTH|SOUTHNORTH|WESTEAST|EASTWEST/;
   while (pattern.test(str)) {
