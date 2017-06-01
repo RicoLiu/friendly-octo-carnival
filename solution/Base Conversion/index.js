@@ -1,4 +1,4 @@
-function convert(input, source, target) {
+var convert = function (input, source, target) {
     let decimal = 0;
     let res = '';
     //将input转化为10进制
@@ -15,3 +15,5 @@ function convert(input, source, target) {
     }
     return res.split('').reverse().join('');
 }
+
+exports.convert = convert;
