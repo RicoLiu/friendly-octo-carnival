@@ -1,4 +1,4 @@
-function convertFrac(lst){
+var convertFrac = function (lst) {
   //handle lst is empty
   if (lst === []) {
   	return '';
@@ -44,3 +44,5 @@ function convertFrac(lst){
   }
   return resultLst;
 }
+
+exports.convertFrac = convertFrac;
