@@ -26,6 +26,7 @@ Solution to codewars problems: https://www.codewars.com
 + [Primes in numbers](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Primes%20in%20numbers/index.js)
 + [Product of consecutive Fib numbers](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Product%20of%20consecutive%20Fib%20numbers/index.js)
 + [Reverse Integer](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Reverse%20Integer/index.js)
++ [Reverse Linked List](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Reverse%20Linked%20List/index.js)
 + [Reverse String](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Reverse%20String/index.js)
 + [Roman Numerals Encoder](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Roman%20Numerals%20Encoder/index.js)
 + [Rot13](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Rot13/index.js)
