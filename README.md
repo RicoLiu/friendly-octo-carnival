@@ -15,6 +15,7 @@ Solution to codewars problems: https://www.codewars.com
 + [Happy Number](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Happy%20Number/index.js)
 + [Human Readable Time](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Human%20Readable%20Time/index.js)
 + [IQ Test](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Human%20Readable%20Time/index.js)
++ [Linked List Cycle](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Linked%20List%20%20Cycle/index.js)
 + [Intersection of Two Arrays](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Intersection%20of%20Two%20Arrays/index.js)
 + [Longest Substring Without Repeating Characters](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Longest%20Substring%20Without%20Repeating%20Characters/index.js)
 + [Maximum subarray sum](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Maximum%20subarray%20sum/index.js)
