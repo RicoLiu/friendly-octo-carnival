@@ -19,6 +19,7 @@ Solution to codewars problems: https://www.codewars.com
 + [Intersection of Two Arrays](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Intersection%20of%20Two%20Arrays/index.js)
 + [Longest Substring Without Repeating Characters](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Longest%20Substring%20Without%20Repeating%20Characters/index.js)
 + [Maximum subarray sum](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Maximum%20subarray%20sum/index.js)
++ [Middle of the Linked List](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Middle%20of%20the%20Linked%20List/index.js)
 + [Moving Zeros To The End](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Moving%20Zeros%20To%20The%20End/index.js)
 + [Next bigger number with the same digits](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Next%20bigger%20number%20with%20the%20same%20digits/index.js)
 + [Order Words](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Order%20Words/index.js)
