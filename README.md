@@ -39,3 +39,4 @@ Solution to codewars problems: https://www.codewars.com
 + [Two Sum](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Two%20Sum/index.js)
 + [Ugly Number](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Ugly%20Number/index.js)
 + [Valid Braces](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Valid%20Braces/index.js)
++ [Valid Parentheses](https://github.com/RicoLiu/friendly-octo-carnival/blob/master/solution/Valid%20Parentheses/index.js)
