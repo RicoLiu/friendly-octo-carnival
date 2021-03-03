@@ -1,3 +1,10 @@
+/**
+ * 进制转换器
+ * @param {input} 需转换的数值
+ * @param {source} 源数值的进制
+ * @param {target} 目标数值的进制
+ * @return {String} 转换后的数值
+ */
 var convert = function (input, source, target) {
     let decimal = 0;
     let res = '';
